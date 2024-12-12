@@ -1,0 +1,20 @@
+.container {
+    max-width: 100%
+}
+
+.navSlide::before {
+        content: "Ilmainen hinta-arvio";
+        animation: animate infinite 10s;
+        padding-left: 10px;
+    
+}
+@keyframes animate {
+
+    50% {
+        content: "60% Kotitalousvähennys";
+    }
+
+    75% {
+        content: "100% Laatutakuu"
+    }
+}
