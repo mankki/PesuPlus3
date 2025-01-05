@@ -84,8 +84,8 @@ const Prices  =  ()  => {
             Yksittäinen penkki: 35 €{<br/>}
             Mopoauto: 60 €{<br/>}
             2-paikkainen auto: 60 €{<br/>}
-            9-paikkainen auto: 120 €{<br/>}
-            9-paikkainen auto: 160 €{<br/>}
+            5-paikkainen auto: 120 €{<br/>}
+            7-paikkainen auto: 160 €{<br/>}
           </p>
         <div className = "flex justify-center mt-2">
         <button
@@ -109,12 +109,12 @@ const Prices  =  ()  => {
           </p>
         <h5 className = "mb-2 text-xl leading-tight text-white font-bold">Mattopesun hinnasto</h5>
           <p className = "mb-4 text-xl text-white text-center">
-              XS-matto (0,9 m²): 9 €{<br/>}
-              S-matto (1 m²): 14 €{<br/>}
-              M-matto (3 m²): 38 €{<br/>}
-              L-matto (9 m²): 59€{<br/>}
-              XL-matto (8 m²): 89 €{<br/>}
-              XXL-matto (10 m²): 99 €{<br/>}
+              XS-matto (max 0,5 m²): 9 €{<br/>}
+              S-matto (max 1 m²): 14 €{<br/>}
+              M-matto (max 3 m²): 38 €{<br/>}
+              L-matto (max 9 m²): 59€{<br/>}
+              XL-matto (max 8 m²): 89 €{<br/>}
+              XXL-matto (max 10 m²): 99 €{<br/>}
           </p>
         <div className = "flex justify-center mt-2">
         <button
