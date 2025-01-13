@@ -3,7 +3,7 @@
 }
 
 .navSlide::before {
-        content: "Ilmainen hinta-arvio";
+        content: "Helppo verkkoajanvaraus";
         animation: animate infinite 10s;
         padding-left: 10px;
     
@@ -11,10 +11,10 @@
 @keyframes animate {
 
     50% {
-        content: "60% Kotitalousvähennys";
+        content: "35 % kotitalousvähennys";
     }
 
     75% {
-        content: "100% Laatutakuu"
+        content: "Täysi laatutakuu"
     }
 }
