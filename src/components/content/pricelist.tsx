@@ -14,7 +14,7 @@ const Pricelist = (props:any) => {
                 <summary className='my-6 text-2xl hover:cursor-pointer'><b>Katso koko hinnasto</b></summary>
                 <div className="dropdown-text">
                     <h1 style={{}}>Hinnasto</h1>
-                    <p style={{}}>Käytämme urakkaveloitusta, jotta tiedät työn hinnan tarkalleen etukäteen. Hinta sis. alv 24 %.
+                    <p style={{}}>Käytämme urakkaveloitusta, jotta tiedät työn hinnan tarkalleen etukäteen. Hinta sis. alv 25,5 %.
                         Käytämme vain ammattikäyttöön tarkoitettuja, erittäin laadukkaita laitteita ja pesuaineita. Pidätämme
                         oikeuden hinnanmuutoksiin. Minimiveloituksemme on 100 €. Pesu tapahtuu kätevästi asiakkaan kotona.
                         Maksaminen onnistuu kätevästi maksupäätteellä. Palvelumme ovat kotitalousvähennyskelpoisia (60 %).
