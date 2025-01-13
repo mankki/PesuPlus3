@@ -14,10 +14,13 @@ const Pricelist = (props:any) => {
                 <summary className='my-6 text-2xl hover:cursor-pointer'><b>Katso koko hinnasto</b></summary>
                 <div className="dropdown-text">
                     <h1 style={{}}>Hinnasto</h1>
-                    <p style={{}}>Käytämme urakkaveloitusta, jotta tiedät työn hinnan tarkalleen etukäteen. Hinta sis. alv 25,5 %.
-                        Käytämme vain ammattikäyttöön tarkoitettuja, erittäin laadukkaita laitteita ja pesuaineita. Pidätämme
-                        oikeuden hinnanmuutoksiin. Minimiveloituksemme on 100 €. Pesu tapahtuu kätevästi asiakkaan kotona.
-                        Maksaminen onnistuu kätevästi maksupäätteellä. Palvelumme ovat kotitalousvähennyskelpoisia (60 %).
+                    <p style={{}}>Käytämme urakkaveloitusta, joten tiedät työn hinnan tarkalleen etukäteen. Hinta sis. alv 25,5 %.
+                        Käytämme vain ammattikäyttöön tarkoitettuja, laadukkaita laitteita ja pesuaineita. Pidätämme
+                        oikeuden hinnanmuutoksiin. Minimiveloituksemme on 75 €. Pesu tapahtuu kätevästi paikan päällä asiakkaan kotona, yrityksessä
+                        tai muussa kiinteistössä.Maksaminen onnistuu kätevästi maksupäätteellä. Palvelumme ovat kotitalousvähennyskelpoisia (35 % työn osuudesta).
+                        Matkakulumme perusmaksu on 20 €. Lisäksi, jos etäisyys toimipisteeltämme (Jäkäläkuja 2, 90650 Oulu) asiakkaalle
+                        on autolla yli 10 km, veloitamme 1 €/km jokaiselta ylimenevältä kilometriltä. Karttapalvelut, kuten Google Maps,
+                        antavat varsin hyviä arvioita ajomatkoista.
                     </p>
                     <h2>Hinta-arvio:</h2>
                     <table>
