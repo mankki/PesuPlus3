@@ -32,16 +32,7 @@ const footer = () => {
                       </div>
                       <div className = "text rap">
                       <div className = 'mx-3'>
-                  <img className = "w-20 h-20 rounded-full" src = "https://i.imgur.com/VaxbSUe.png" alt = "Ville Vähänen"/>
                   </div>
-                  <div className = "">
-                      <p className = "text-sm font-medium text-white">
-                          Ville Vähänen
-                      </p>
-                      <p className = "text-sm text-gray-400 truncate">
-                              Talousjohtaja
-                      </p>
-                      </div>
                       </div>
               </div>
           </div>
