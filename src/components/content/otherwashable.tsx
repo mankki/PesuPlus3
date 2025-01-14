@@ -22,7 +22,7 @@ const otherwashable = () => {
             alt="pehmolelu" />
             <h5 className = "mb-2 text-xl font-bold leading-tight text-black">PEHMOLELUT</h5>
               <p className = "mb-4 text-2xl text-black text-center">
-                Pesemme pehmolelut paikanpäällä.
+                Pesemme pehmolelut paikan päällä.
               </p>
           </div>
         <div className = "flex flex-col rounded-lg sm:shrink-0 sm:grow sm:basis-0 sm:rounded-e-none items-center">
