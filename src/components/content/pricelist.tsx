@@ -59,7 +59,7 @@ const Pricelist = (props:any) => {
                         </tr>
                         <tr>
                             <td>Nojatuoli</td>
-                            <td>49 €</td>
+                            <td>39 €</td>
                         </tr>
                         <tr>
                             <td>Kahden istuttava sohva</td>
