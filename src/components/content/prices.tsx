@@ -26,7 +26,7 @@ const Prices  =  ()  => {
           </p>
         <h5 className = "mb-2 text-xl leading-tight text-white font-bold">Sohvapesun hinnasto</h5>
           <p className = "mb-4 text-xl text-white text-center">
-            Nojatuoli: 49 €{<br/>}
+            Nojatuoli: 39 €{<br/>}
             Kahden istuttava: 69 €{<br/>}
             Kolmen istuttava: 98 €{<br/>}
             Neljän istuttava: 126 €{<br/>}
