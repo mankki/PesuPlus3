@@ -12,7 +12,7 @@ const valuescontent = () => {
           alt = "Kotimainen"/>
         <h5 className = "mb-2 text-xl font-bold leading-tight text-black">KOTIMAINEN - OULULAINEN</h5>
           <p className = "mb-4 text-2xl text-black text-center">
-            Yrityksemme on ylpeästi kotimainen ja juuremme ovat Oulussa. Käytämme paikallista työvoimaa.
+            Yrityksemme on ylpeästi kotimainen ja juuremme ovat Oulussa.
           </p>
       </div>
 
