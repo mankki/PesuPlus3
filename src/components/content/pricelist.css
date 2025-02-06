@@ -1,7 +1,7 @@
 .center {
             padding: auto;
             margin: auto;
-            text-align: left;
+            text-align: center;
             justify-content: center;
         }
 
@@ -17,6 +17,7 @@
         }
         .dropdown-text p {
             margin: 10px 0;
+            text-align: left;
         }
         .dropdown-text h2 {
             text-align: justify;
