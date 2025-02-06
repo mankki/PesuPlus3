@@ -22,7 +22,7 @@ const valuescontent = () => {
           alt = "Laatu"/>
         <h5 className = "mb-2 text-xl font-bold leading-tight text-black">LAADUKKAAT TYÖVÄLINEET</h5>
           <p className = "mb-4 text-2xl text-black text-center">
-            Käytämme vain jatkuvaan ammattikäyttöön tarkoitettuja tekstiilipesureita ja erittäin laadukkaita pesuaineita.
+            Käytämme vain jatkuvaan ammattikäyttöön tarkoitettuja tekstiilipesureita ja laadukkaita pesuaineita.
           </p>
       </div>
       <div className = "flex flex-col rounded-lg sm:shrink-0 sm:grow sm:basis-0 sm:rounded-e-none items-center p-5">
@@ -31,7 +31,7 @@ const valuescontent = () => {
           alt = "Laatutakuu" />
         <h5 className = "mb-2 text-xl font-bold leading-tight text-black">100% LAATUTAKUU AINA</h5>
           <p className = "mb-4 text-2xl text-black text-center">
-            Meillä on 100% laatutakuu. Teemme työn uudestaan tai palautamme rahat, jos työn jälki ei miellytä silmää.
+            Teemme työn uudestaan tai palautamme rahat, jos työn jälki ei miellytä silmää.
           </p>
       </div>
     </div>
