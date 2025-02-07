@@ -30,7 +30,7 @@ const ReservationModal = (props:any) => {
                       </span>
                     </button>
                   </div>
-                  <div className = "relative p-6 flex-auto">
+                  <div className = "relative p-6 flex-auto" style=padding:0px>
                     <iframe title = 'PesuPlus - Tilausivu' style = {{width: "100%", height:"87vh"}}
                         
                         srcDoc="<div style=height:87vh; >
