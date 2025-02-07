@@ -32,26 +32,20 @@ const ReservationModal = (props:any) => {
                   </div>
                   <div className = "relative p-6 flex-auto">
                     <iframe title = 'PesuPlus - Tilausivu' style = {{width: "100%", height:"87vh"}}
-                        src="https://varaa.timma.fi/reservation/pesuplus"
-                        id="reservationIframe59961"
-                        srcDoc="<div style=width:100%; height:1000px>
+                        
+                        srcDoc="<div style=height:87vh; >
                                     <iframe title='PesuPlus - Tilausivu'
-                                    src=https://forms.fillout.com/t/43KF4KbywUus?id=recMeytUcZ0GqhGTY
+                                    src=https://forms.fillout.com/t/43KF4KbywUus
                                     width=100%
                                     height=100%
-                                    id=reservationIframe59961
                                     ></iframe>
-                                    <script src=https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/2.8.3/iframeResizer.min.js></script>
-                                    <script type=text/javascript>iFrameResize({}, '#reservationIframe59961');</script>
                                   </div>
                           <div style='text-align:center; font-family: KnockoutCruiseweight, sans-serif;'>
                           <h2>Huom! Toiminta-alueemme on Oulu.</h2>
-                          <p>Jos ajanvarauskalenteri ei avaudu tälle sivulle, paina <a href=https://forms.fillout.com/t/43KF4KbywUus?id=recMeytUcZ0GqhGTY>tästä</a> linkistä.</p>
+                          <p>Jos ajanvarauskalenteri ei avaudu tälle sivulle, paina <a href=https://forms.fillout.com/t/43KF4KbywUus>tästä</a> linkistä.</p>
                           <h2>Voit varata ajan myös numerosta:</h2>
                           <p>044 243 6843</p></div>">
                     </iframe>
-                    <script src = "https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/2.8.3/iframeResizer.min.js"></script>
-                    <script type = "text/javascript">iFrameResize({}, '#reservationIframe59961');</script>
                   </div>       
                 </div>
               </div>
