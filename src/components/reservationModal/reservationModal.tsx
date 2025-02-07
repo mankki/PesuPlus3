@@ -26,10 +26,10 @@ const ReservationModal = (props: any) => {
                     </span>
                   </button>
                 </div>
-                <div className="relative flex-auto" style={{ padding: 0, overflowY: 'auto' }}>
+                <div className="relative flex-auto" style={{ padding: 0, overflowY: 'auto', height: 'calc(100% - 72px)' }}>
                   <iframe
                     title="PesuPlus - Tilausivu"
-                    style={{ width: '100%', height: '100vh', border: 'none' }}
+                    style={{ width: '100%', height: '100%', border: 'none' }}
                     src="https://forms.fillout.com/t/43KF4KbywUus"
                   ></iframe>
                 </div>
