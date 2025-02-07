@@ -12,9 +12,9 @@ const ReservationModal = (props: any) => {
     <>
       {modalState && (
         <>
-          <div className="justify-center items-center flex fixed inset-0 z-50 outline-none focus:outline-none overflow-auto">
-            <div className="relative my-6 mx-auto w-full max-w-3xl">
-              <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
+          <div className="justify-center items-center flex fixed inset-0 z-50 outline-none focus:outline-none overflow-hidden">
+            <div className="relative my-6 mx-auto w-full h-full">
+              <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-full h-full bg-white outline-none focus:outline-none">
                 <div className="flex items-start justify-between p-5 border-b border-solid border-blueGray-200 rounded-t">
                   <h3 className="text-3xl font-semibold">Ajanvaraus</h3>
                   <button
@@ -26,10 +26,10 @@ const ReservationModal = (props: any) => {
                     </span>
                   </button>
                 </div>
-                <div className="relative flex-auto overflow-y-auto" style={{ padding: 0, maxHeight: '80vh' }}>
+                <div className="relative flex-auto" style={{ padding: 0, overflowY: 'auto' }}>
                   <iframe
                     title="PesuPlus - Tilausivu"
-                    style={{ width: '100%', height: '100%', border: 'none' }}
+                    style={{ width: '100%', height: '100vh', border: 'none' }}
                     src="https://forms.fillout.com/t/43KF4KbywUus"
                   ></iframe>
                 </div>
