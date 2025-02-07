@@ -36,7 +36,7 @@ const ReservationModal = (props:any) => {
                         id="reservationIframe59961"
                         srcDoc="<div style=width:100%; height:1000px>
                                     <iframe title='PesuPlus - Tilausivu'
-                                    src=https://varaa.timma.fi/reservation/pesuplus
+                                    src=https://forms.fillout.com/t/43KF4KbywUus?id=recMeytUcZ0GqhGTY
                                     width=100%
                                     height=100%
                                     id=reservationIframe59961
@@ -46,7 +46,7 @@ const ReservationModal = (props:any) => {
                                   </div>
                           <div style='text-align:center; font-family: KnockoutCruiseweight, sans-serif;'>
                           <h2>Huom! Toiminta-alueemme on Oulu.</h2>
-                          <p>Jos ajanvarauskalenteri ei avaudu tälle sivulle, paina <a href=https://varaa.timma.fi/pesuplus>tästä</a> linkistä.</p>
+                          <p>Jos ajanvarauskalenteri ei avaudu tälle sivulle, paina <a href=https://forms.fillout.com/t/43KF4KbywUus?id=recMeytUcZ0GqhGTY>tästä</a> linkistä.</p>
                           <h2>Voit varata ajan myös numerosta:</h2>
                           <p>044 243 6843</p></div>">
                     </iframe>
