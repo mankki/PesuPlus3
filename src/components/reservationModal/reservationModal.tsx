@@ -26,7 +26,7 @@ const ReservationModal = (props: any) => {
                     </span>
                   </button>
                 </div>
-                <div className="relative flex-auto" style={{ padding: 0, overflowY: 'auto', height: 'calc(100% - 72px)' }}>
+                <div className="relative flex-auto" style={{ padding: 0, overflow: 'hidden', flexGrow: 1 }}>
                   <iframe
                     title="PesuPlus - Tilausivu"
                     style={{ width: '100%', height: '100%', border: 'none' }}
