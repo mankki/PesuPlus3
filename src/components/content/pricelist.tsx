@@ -17,12 +17,10 @@ const Pricelist = (props:any) => {
                     <p style={{}}>Käytämme urakkaveloitusta, joten tiedät työn hinnan tarkalleen etukäteen. Hinta sis. alv 25,5 %.
                         Käytämme vain ammattikäyttöön tarkoitettuja, laadukkaita laitteita ja pesuaineita. Pidätämme
                         oikeuden hinnanmuutoksiin. Minimiveloituksemme on 75 €. Pesu tapahtuu kätevästi paikan päällä asiakkaan kotona, yrityksessä
-                        tai muussa kiinteistössä.Maksaminen onnistuu kätevästi maksupäätteellä. Palvelumme ovat kotitalousvähennyskelpoisia (35 % työn osuudesta).
-                        Matkakulumme perusmaksu on 20 €. Lisäksi, jos etäisyys toimipisteeltämme (Jäkäläkuja 2, 90650 Oulu) asiakkaalle
-                        on autolla yli 10 km, veloitamme 1 €/km jokaiselta ylimenevältä kilometriltä. Karttapalvelut, kuten Google Maps,
-                        antavat varsin hyviä arvioita ajomatkoista.
+                        tai muussa kiinteistössä. Maksaminen onnistuu kätevästi maksupäätteellä. Palvelumme ovat kotitalousvähennyskelpoisia (35 % työn osuudesta).
+                        Matkakulu lasketaan postinumeroaluekohtaisesti, ja sen voi tarkistaa kätevästi ajanvarausjärjestelmästämme tai asiakaspalvelustamme.
                     </p>
-                    <h2>Hinta-arvio:</h2>
+                    <h2><b>Hinta-arvio:</b></h2>
                     <table>
                         <tr>
                             <th>Palvelu:</th>
@@ -37,7 +35,7 @@ const Pricelist = (props:any) => {
                             <td>0 €</td>
                         </tr>
                     </table>
-                    <h2>Tekstiilikalusteet:</h2>
+                    <h2><b>Tekstiilikalusteet:</b></h2>
                     <p>Tekstiilipintaiset kalusteet pestään ammattikäyttöön tarkoitetulla tekstiilipesurilla.
                     </p>
                     <table>
@@ -90,10 +88,9 @@ const Pricelist = (props:any) => {
                             <td>94 €</td>
                         </tr>
                     </table>
-                    <h2>Nahkakalusteet:</h2>
-                    <p>Nahkakalusteisiin sovelletaan samaa hinnastoa kuin kangaskalusteisiin. Nahkakalusteet pestään käsin. Pesun jälkeen nahkakalusteet
-                        käsitellään niihin soveltuvilla laadukkailla hoitoaineilla.</p>
-                    <h2>Matot:</h2>
+                    <h2><b>Nahkakalusteet:</b></h2>
+                    <p>Nahkakalusteiden hoitokäsittelyjen hinnaston löydät ajanvarausjärjestelmästämme "Varaa aika" -napin takaa.</p>
+                    <h2><b>Matot:</b></h2>
                     <table>
                         <tr>
                             <th>Työ:</th>
@@ -124,7 +121,7 @@ const Pricelist = (props:any) => {
                             <td>99 €</td>
                         </tr>
                     </table>
-                    <h2>Ajoneuvot (penkit, muu verhoilu):</h2>
+                    <h2><b>Ajoneuvot (penkit, muu verhoilu):</b></h2>
                     <table>
                         <tr>
                             <th>Työ:</th>
@@ -159,7 +156,7 @@ const Pricelist = (props:any) => {
                             <td>Tarjouksen mukaan</td>
                         </tr>
                     </table>
-                    <h2>Muut tekstiilipestävät:</h2>
+                    <h2><b>Muut tekstiilipestävät:</b></h2>
                     <table>
                         <tr>
                             <th>Työ:</th>
@@ -186,7 +183,7 @@ const Pricelist = (props:any) => {
                             <td>27 €</td>
                         </tr>
                     </table>
-                    <h2>Lisäpalvelut:</h2>
+                    <h2><b>Lisäpalvelut:</b></h2>
                     <table>
                         <tr>
                             <th>Palvelu:</th>
@@ -197,11 +194,11 @@ const Pricelist = (props:any) => {
                             <td>Tarjouksen mukaan</td>
                         </tr>
                         <tr>
-                            <td>Hoitokäsittely hoitoaineella</td>
+                            <td>Suoja-ainekäsittely</td>
                             <td>Tarjouksen mukaan</td>
                         </tr>
                     </table>
-                    <h2>Huom!</h2>
+                    <h2><b>Huom!</b></h2>
                     <p>Jos et löytänyt etsimääsi hintaa tältä välilehdeltä, lähetäthän meille tarjouspyynnön sähköpostitse
                         (mielellään kuvan kera). Voit tiedustella tarjouspyyntöä myös puhelimitse.
                     </p>
