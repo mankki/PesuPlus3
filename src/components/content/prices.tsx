@@ -114,7 +114,7 @@ const Prices  =  ()  => {
               XS-matto (max 0,5 m²): 9 €{<br/>}
               S-matto (max 1 m²): 14 €{<br/>}
               M-matto (max 3 m²): 38 €{<br/>}
-              L-matto (max 9 m²): 59€{<br/>}
+              L-matto (max 5 m²): 59€{<br/>}
               XL-matto (max 8 m²): 89 €{<br/>}
               XXL-matto (max 10 m²): 99 €{<br/>}
           </p>
